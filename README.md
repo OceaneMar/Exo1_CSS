@@ -3,6 +3,7 @@
 Charte graphique
 
 Logo
+![label](vraiLogoExoCss.png)
 
 Couleurs Listez les couleurs utilisées ci-après en donnant les valeurs en hexadécimal.
 
