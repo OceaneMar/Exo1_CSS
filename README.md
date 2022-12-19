@@ -6,12 +6,13 @@ Exo1_CSS
 
 ![label](vraiLogoExoCss.png)
 
-## Couleurs Listez les couleurs utilisées ci-après en donnant les valeurs en hexadécimal.
+## Couleurs 
+
 #0D1821
 #6AD5CB
 #EF767A
 
-## Icônes Listez toutes vos icônes ici.
+## Icônes 
 
 ![label](/icones/ic-baseline-call.svg)
 ![label](/icones/ic-baseline-dehaze.svg)
@@ -21,7 +22,7 @@ Exo1_CSS
 ![label](/icones/ic-baseline-person.svg)
 ![label](/icones/ic-round-pin-drop.svg)
 
-## Polices Listez toutes vos polices ici (avec le lien direct depuis Google Font).
+## Polices
 
 - MONTSERRAT
 
@@ -46,6 +47,6 @@ Utilisation police :
 
 - Montserrat regular pour le body
 
-## Maquettes Affichez toutes vos maquettes ici au format images (png ou jpeg).
+## Maquettes
 
 ![label](MicrosoftTeams-image.png)
