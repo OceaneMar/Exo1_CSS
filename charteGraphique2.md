@@ -1,4 +1,4 @@
-<h1>Charte graphique</h1>
+Charte graphique
 
 Logo
 
